@@ -1,0 +1,9 @@
+{
+	"id":"IC1",
+	"name": "Atmega8",
+	"partNumber":"Atmega328",
+	"numberOnBoard":"1",
+	"schematicImage":"atmega8sch.png",
+	"datasheet":"atmega328.pdf",
+	"footprint":"DIP-28"
+}

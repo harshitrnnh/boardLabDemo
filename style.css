@@ -1,0 +1,22 @@
+body{
+	font-family:Helvetica;
+}
+
+h2{
+	color:#777;
+	padding:0px;
+}
+
+.title h2{
+	color:#EB8540;
+}
+
+.block{
+	float:left;
+	width:46%;
+	padding:1%;
+}
+
+.subblock{
+	float:left;
+}
